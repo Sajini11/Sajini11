@@ -9,7 +9,6 @@
 - 👩‍🎓 I'm a Software Engineering Undergraduate at the University of Westminster(UK), IIT Sri Lanka
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **sajini2021e@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
