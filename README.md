@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajini Dilshika</h1>
-<h3 align="center">A passionate Software Engineering Student</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajini11&label=Profile%20views&color=0e75b6&style=flat" alt="sajini11" /> </p>
 
 <div align="center">
